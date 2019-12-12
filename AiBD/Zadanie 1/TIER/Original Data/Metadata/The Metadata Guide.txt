@@ -1,0 +1,5 @@
+tb.csv show data about patients with tuberculosis 
+ios2 column describes the countryshortcut from which the patient came
+year is self explanatory
+new_sp_m014 stands for patient-male-age from 0-14
+each sigle nunmber stands for the amount of patients from the country, year and age group
